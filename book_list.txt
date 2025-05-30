@@ -13,4 +13,4 @@
    지은이 : 정민
 7. 책 제목 : 좋아하는 걸 좋아하는 게 취미
    지은이 : 라이너 마리아 릴케
-10. deleted book
+10. deleted book + conflict
